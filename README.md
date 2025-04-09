@@ -138,8 +138,8 @@ A: 检查：
 ---
 ## 8. 技术支持
 ### 反馈渠道
-- 邮箱：support@example.com
-- GitHub：github.com/yourrepo
+- 邮箱：
+- GitHub：
 ### 更新计划
 - 下一版本将增加更多模型支持
 - 计划添加模型训练功能
