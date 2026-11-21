@@ -1,0 +1,2 @@
+cls
+python model_tester_app.py
